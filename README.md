@@ -1,7 +1,6 @@
 # Multimodal Emotion Classifier
 
-A deep learning-based emotion classifier designed to detect emotions from facial expressions using convolutional neural networks (CNN). The project includes training a custom CNN or using a pre-trained YOLO model for emotion detection.
-
+A deep learning-based emotion classifier designed to detect emotions from facial expressions using convolutional neural networks (CNN), and using KAN (Kolmogorov–Arnold Network) method to train and create the model architecture
 ---
 
 ## **Features**
