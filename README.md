@@ -23,11 +23,3 @@ A deep learning-based emotion classifier designed to detect emotions from facial
 
 ---
 
-## **Setup Instructions**
-
-### **1. Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/multimodal-emotion-classifier.git
-cd multimodal-emotion-classifier
-
